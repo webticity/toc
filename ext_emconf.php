@@ -10,7 +10,7 @@
  * "version" and "dependencies" must not be touched!
  ***************************************************************/
 
-$EM_CONF[$_EXTKEY] = array(
+$EM_CONF['toc'] = array(
 	'title' => 'Table of Contents',
 	'description' => 'Enables a Table of Contents (TOC) know from Websites like Wikipedia as a plugin for each page which has headlines.',
 	'category' => 'plugin',
