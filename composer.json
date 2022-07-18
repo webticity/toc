@@ -29,5 +29,5 @@
     "typo3/cms": {
       "extension-key": "toc"
     }
-  },
+  }
 }
